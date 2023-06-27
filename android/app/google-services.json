@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842988213591",
+    "project_id": "notesappiguess",
+    "storage_bucket": "notesappiguess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842988213591:android:7d65d541619e4cf2ed1a12",
+        "android_client_info": {
+          "package_name": "in.firstapp.dartprj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842988213591-7dk2pai2l9afad1a106sh5t6aasu5q6n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Y6x9-N3MvR_EeoqDdO8O7QxGYixJbUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842988213591-7dk2pai2l9afad1a106sh5t6aasu5q6n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
